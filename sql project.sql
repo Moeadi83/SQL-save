@@ -1,4 +1,4 @@
-The Situation: I have been hired as a sales analyst for Judah inc. a comapy that specialized in selling computer hardware to large business
+The Situation: I have been hired as a sales analyst for Judah inc. a company that specialized in selling computer hardware to large business
 The assignment: The Vp of sales is mostly happy with hewr team's performance, but she want a better understanding of its strengths and weaknesss.
   I have been assign to perform an analyis of last year sales, calculating key statistics on the health of the salespipe line, the performance of the sales agents,
   the popularity of products, and the company's customers
