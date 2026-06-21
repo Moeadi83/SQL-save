@@ -39,7 +39,6 @@ YEAR	MONTH	Count
 FIND the average time deals stayed open ( from "engage_date" to "close date"), and compare closed delas versus won deals
 
 SELECT AVG (DATEDIFF(close_date, engage_date)) FROM sales_pipeline;
-AVG (DATEDIFF(close_date, engage_date))
 47.9854
   
 
